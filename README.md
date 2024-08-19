@@ -1,35 +1,13 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+Bienvenidos a la presentación de 
+# Agustín Alabarces Varela
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Agustín es estudiante de la Tecnicatura en Programación de Videojuegos en la Universidad Nacional de Hurlingham. También es saxofonista, compositor, diseñador de juegos y programador. Vive en la Ciudad de Buenos Aires y desde el 2024 trabaja en ADE Solutions creando experiencias interactivas.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+El cuatrimestre pasado quiso cursar Programación con Objetos 1 como oyente, pero no tener contacto con sus compañeres le dificultó la cursada, así que espera tener una experiencia más placentera y enriquecedora este cuatrimestre.
+<img src="./assets/saxo-grises.jpg" style='width:500px'/>
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Podés escuchar algunas de las bandas sonoras para videojuegos que compuso <a href='https://www.youtube.com/watch?v=N2alAElgwOg&list=PLBSTAw-qp1EX5QRS2a5wufFMdRhWZTtpV'>acá</a> o a su orquesta de salsa, la Vértigo López, <a href='https://www.youtube.com/watch?v=p4RVv-KQDSg'>acá</a>. Podés jugar a sus juegos <a href='https://aalabarces.github.io/'>acá</a>.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Siempre está abierto a recibir <a href='mailto:aalabarces@gmail.com'>un mail</a> sobre cualquier tema.
